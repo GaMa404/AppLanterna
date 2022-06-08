@@ -1,0 +1,17 @@
+D:\GaMa\Mobile\AppLanterna\AppLanterna\AppLanterna\obj\Debug\netstandard2.0\AppLanterna.csproj.AssemblyReference.cache
+D:\GaMa\Mobile\AppLanterna\AppLanterna\AppLanterna\obj\Debug\netstandard2.0\AppLanterna.GeneratedMSBuildEditorConfig.editorconfig
+D:\GaMa\Mobile\AppLanterna\AppLanterna\AppLanterna\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\GaMa\Mobile\AppLanterna\AppLanterna\AppLanterna\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\GaMa\Mobile\AppLanterna\AppLanterna\AppLanterna\obj\Debug\netstandard2.0\AppLanterna.AssemblyInfoInputs.cache
+D:\GaMa\Mobile\AppLanterna\AppLanterna\AppLanterna\obj\Debug\netstandard2.0\AppLanterna.AssemblyInfo.cs
+D:\GaMa\Mobile\AppLanterna\AppLanterna\AppLanterna\obj\Debug\netstandard2.0\AppLanterna.csproj.CoreCompileInputs.cache
+D:\GaMa\Mobile\AppLanterna\AppLanterna\AppLanterna\obj\Debug\netstandard2.0\AppLanterna.dll
+D:\GaMa\Mobile\AppLanterna\AppLanterna\AppLanterna\obj\Debug\netstandard2.0\ref\AppLanterna.dll
+D:\GaMa\Mobile\AppLanterna\AppLanterna\AppLanterna\obj\Debug\netstandard2.0\AppLanterna.pdb
+D:\GaMa\Mobile\AppLanterna\AppLanterna\AppLanterna\bin\Debug\netstandard2.0\AppLanterna.deps.json
+D:\GaMa\Mobile\AppLanterna\AppLanterna\AppLanterna\bin\Debug\netstandard2.0\AppLanterna.dll
+D:\GaMa\Mobile\AppLanterna\AppLanterna\AppLanterna\bin\Debug\netstandard2.0\ref\AppLanterna.dll
+D:\GaMa\Mobile\AppLanterna\AppLanterna\AppLanterna\bin\Debug\netstandard2.0\AppLanterna.pdb
+D:\GaMa\Mobile\AppLanterna\AppLanterna\AppLanterna\obj\Debug\netstandard2.0\XamlC.stamp
+D:\GaMa\Mobile\AppLanterna\AppLanterna\AppLanterna\bin\Debug\netstandard2.0\Imagens\botao_off.png
+D:\GaMa\Mobile\AppLanterna\AppLanterna\AppLanterna\bin\Debug\netstandard2.0\Imagens\botao_on.png
